@@ -1,5 +1,6 @@
 # program that opens a file called “Lab2.txt” for append
 # test Elisha1
+# test Tavagadza
 with open("Lab2.txt", "a") as file:
     # loop that iterates 5 times
     for index in range(5):
